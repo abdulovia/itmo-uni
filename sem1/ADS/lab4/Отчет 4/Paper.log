@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.8)  2 DEC 2022 01:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.8)  2 DEC 2022 01:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -912,12 +912,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 100.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Underfull \hbox (badness 2818) in paragraph at lines 100--101
-[]\T2A/cmr/m/n/14.4 GitHub [Ёлек-трон-ный ре-сурс]: []$\T2A/cmtt/m/n/14.4 https : / / github . com / estle / itmo-[]uni$[]
- []
-
-[9
+) [9
 
 ] (./Paper.aux)
 Package rerunfilecheck Info: File `Paper.out' has not changed.
@@ -932,10 +927,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  85i,17n,90p,816b,476s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on Paper.pdf (9 pages, 580186 bytes).
+Output written on Paper.pdf (9 pages, 581699 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 162 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
  104 words of extra memory for PDF output out of 10000 (max. 10000000)
 
