@@ -18,18 +18,26 @@
 
 ---
 
-## ПАПКА ПРИНАДЛЕЖИТ ✨
-
+## Автор папки ✨
+Спасибо за вклад!
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/VeraKasianenko"><img src="https://avatars.githubusercontent.com/u/112972833?v=4" width="100px;" alt=""/><br /><sub><b>VeraKasianenko</b></sub></a><br /><a href="https://github.com/libscie/credit-roll/commits?author=VeraKasianenko" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/VeraKasianenko"><img src="https://avatars.githubusercontent.com/u/112972833?v=4" width="100px;" alt=""/><br /><sub><b>VeraKasianenko</b></sub></a><br /><a href="https://github.com/libscie/credit-roll/commits?author=VeraKasianenko" title="Code"></a>
+    <a href="https://github.com/VeraKasianenko/itmo_1_sem/tree/main/Programming/prog_1">check original repo</a></td>
   </tr>
 </table>
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+---
+
+P.S. Я понимаю, что
+
+<img src="https://webdevkin.ru/media/img/courses/git/meme/git-private-repo.jpg" width="300px">
+
+P.P.S. Прошу прощения, Вера. Надеюсь, все ОК.
