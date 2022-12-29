@@ -1,0 +1,10 @@
+\thispagestyle {fancyplain}
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{\numberline {1}Введение}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Задание}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Цель работы}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Задачи}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Ход работы}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Анализ предметной области и требований}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Реализация программы}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Вывод}{18}{chapter.3}%

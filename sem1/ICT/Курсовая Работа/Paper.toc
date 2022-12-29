@@ -1,0 +1,48 @@
+\thispagestyle {fancyplain}
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{ВВЕДЕНИЕ}{3}{figure.caption.1}%
+\contentsline {chapter}{\numberline {1}Анализ предметной области}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Описание предметной области и необходимых функций будущей ИС, подлежащих реализации}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Название}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Назначение}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Основные пользователи}{5}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Планируемый набор функций}{6}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}Прототип интерфейса}{6}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}Обзор аналогов, представленных на рынке}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Обоснование необходимости разработки}{12}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Разработка модели прецедентов и диаграмм активности для типовых сценариев работы системы}{14}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}UML диаграммы}{14}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1.5}Разработка диаграмм IDEF0, DFD, IDEF3 для будущей системы}{17}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Методология IDEF0}{17}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Диаграммы DFD}{21}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Модель IDEF3}{23}{subsection.1.5.3}%
+\contentsline {chapter}{\numberline {2}Создание технического задания на создание информационной системы.}{26}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Общие сведения}{26}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Наименование работ}{26}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Плановые сроки выполнения работ}{26}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Цели и задачи выполнения работ}{26}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Основные направления выполнения работ}{27}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}Общие требования к системе}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Требования по сохранности информации при авариях}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Требования к надежности}{27}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Требования к режимам функционирования}{28}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Создание информационной системы}{28}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Полное наименование системы}{28}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Цель работы}{28}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Характеристика объекта автоматизации}{29}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Требования к системе в целом}{29}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Требования к функциональной части системы}{29}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Требования к видам обеспечения}{31}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Проведение испытаний}{32}{subsection.2.3.7}%
+\contentsline {section}{\numberline {2.4}Требования к результатам работ}{32}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Разработка прикладного программного обеспечения}{32}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Требования к составу и содержанию работ по подготовке объекта автоматизации к вводу системы в действие}{33}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Требования к документированию}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Требования к оформлению}{33}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Проектная и рабочая документация}{34}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Исходные тексты и программная документация}{34}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Требования к оформлению документации по испытаниям системы}{35}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Источники разработки технического задания}{35}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Источники разработки}{35}{subsection.2.6.1}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{36}{subsection.2.6.1}%
+\contentsline {chapter}{\hfil {}СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ\hfil {}}{37}{chapter*.21}%

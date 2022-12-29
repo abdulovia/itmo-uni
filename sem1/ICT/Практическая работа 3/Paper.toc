@@ -1,0 +1,13 @@
+\thispagestyle {fancyplain}
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{ВВЕДЕНИЕ}{3}{Doc-Start}%
+\contentsline {chapter}{\numberline {1}Описание будущей ИС}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Название}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Назначение}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Основные пользователи}{4}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Планируемый набор функций}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Прототип интерфейса}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Аналоги}{9}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Обоснование необходимости ИС}{9}{section.1.7}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{10}{section.1.7}%
+\contentsline {chapter}{\hfil {}СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ\hfil {}}{11}{chapter*.5}%

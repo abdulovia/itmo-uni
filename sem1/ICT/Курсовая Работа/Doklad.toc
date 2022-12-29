@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {2}{Введение}{3}{0}{1}
+\beamer@sectionintoc {3}{Описание Better Row}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Назначение и пользователи Better Row}{4}{0}{2}
+\beamer@subsectionintoc {3}{2}{Планируемый набор функций и прототип интерфейса}{5}{0}{2}
+\beamer@sectionintoc {4}{Аналоги}{9}{0}{3}
+\beamer@sectionintoc {5}{Модели и диаграммы системы}{11}{0}{4}
+\beamer@subsectionintoc {5}{1}{Модель прецедентов и диаграмма активности}{11}{0}{4}
+\beamer@subsectionintoc {5}{2}{Методология IDEF0}{13}{0}{4}
+\beamer@subsectionintoc {5}{3}{Диаграммы DFD}{17}{0}{4}
+\beamer@sectionintoc {6}{Заключение}{19}{0}{5}

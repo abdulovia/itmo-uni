@@ -1,0 +1,61 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.8)  7 DEC 2022 15:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**gost.sty
+(./gost.sty
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count185
+\Gm@cntv=\count186
+\c@Gm@tempcnt=\count187
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks17
+
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1003: Missin
+g \endcsname inserted.
+<to be read again> 
+                   \@classoptionslist 
+l.1003 \ProcessOptionsKV[c]{Gm}
+                               %
+? 
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1003: Emerge
+ncy stop.
+<to be read again> 
+                   \@classoptionslist 
+l.1003 \ProcessOptionsKV[c]{Gm}
+                               %
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 601 strings out of 478268
+ 9636 string characters out of 5846347
+ 302957 words of memory out of 5000000
+ 18894 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,0n,62p,150b,18s stack positions out of 10000i,1000n,20000p,200000b,200000s
+/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty:1003:  ==> F
+atal error occurred, no output PDF file produced!

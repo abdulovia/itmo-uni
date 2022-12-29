@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {2}{Введение}{3}{0}{1}
+\beamer@sectionintoc {3}{Описание Better Row}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Назначение и пользователи Better Row}{4}{0}{2}
+\beamer@sectionintoc {4}{Описание Better Row}{5}{0}{3}
+\beamer@subsectionintoc {4}{1}{Планируемый набор функций и прототип интерфейса}{5}{0}{3}
+\beamer@sectionintoc {5}{Аналоги}{9}{0}{4}
+\beamer@sectionintoc {6}{Заключение}{11}{0}{5}
