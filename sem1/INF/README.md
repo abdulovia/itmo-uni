@@ -28,8 +28,9 @@ VirtualBox](https://github.com/computer-science-itmo-ict/linux_course/tree/maste
 7. [Лекция 7. LaTex](https://youtu.be/_CMp1D_55Sc)
 
 ## Конспекты к лекциям
-Конспекты выполнены мной для подготовки к защитам лаб
-<a href="https://niuitmo-my.sharepoint.com/personal/367777_niuitmo_ru/_layouts/15/Doc.aspx?sourcedoc={5ab43b7d-d518-484b-97dc-b4337d1fb13b}&action=view&wd=target%28%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%201-7.one%7Ca73efb7c-ebdd-1d4f-81ed-ee9e14537226%2F%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20%D0%B8%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.%7Cb3bc0168-d73e-8542-a77a-5b83641b29ef%2F%29&wdorigin=NavigationUrl">Лекции 1-7 по курсу Linux-ICT OneNote</a>
+Конспекты выполнены мной для подготовки к защитам лаб:
+
+<a href="https://niuitmo-my.sharepoint.com/personal/367777_niuitmo_ru/_layouts/15/Doc.aspx?sourcedoc={5ab43b7d-d518-484b-97dc-b4337d1fb13b}&action=view&wd=target%28%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%201-7.one%7Ca73efb7c-ebdd-1d4f-81ed-ee9e14537226%2F%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%201.%20%D0%9C%D0%BE%D1%82%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F.%20%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D0%BD%D1%8B%20%D0%B8%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F.%7Cb3bc0168-d73e-8542-a77a-5b83641b29ef%2F%29&wdorigin=NavigationUrl" target="_blank">Лекции 1-7 по курсу Linux-ICT OneNote</a>
 
 ## Лабораторные работы
 0. [Лабораторная работа 0. Знакомство с основами Git & 
