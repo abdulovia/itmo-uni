@@ -7,3 +7,15 @@
 Приятного обучения!
  
 P.S: Напоминаем, номер вашего потока: КиК1.17
+
+1. Работа в команде
+
+[Видеолекция "Навыки работы в команде"](https://www.youtube.com/watch?v=fg35R_kZOFM)
+[Видеолекция "Групповые и социальные эффекты"](https://www.youtube.com/watch?v=Kz7CjIE0yuE)
+[Статья "Шесть различных моделей эффективности командной работы"](https://www.wrike.com/ru/blog/shest-razlichnyh-modelej-effektivnosti-komandnoj-raboty/)
+
+2. Роли в команде
+
+[Видеолекция "Командные роли"](https://www.youtube.com/watch?v=KmN7Fl0t4Qg)
+[Видеолекция "Стадии развития команд"](https://www.youtube.com/watch?v=6L_uoq4MMHQ)
+
