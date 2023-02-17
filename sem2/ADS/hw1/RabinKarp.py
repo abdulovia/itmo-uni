@@ -17,7 +17,6 @@ def hash(s):
 
 ans = [0]*100
 for num in range(10, 100):
-    ans[num] = 0
     n = str(num)
     h1 = hash(n)
     for j in range(1, len(s)):
