@@ -31,7 +31,7 @@ def hash(s):
     H = 0
     M = len(s)
     for i in range(len(s)):
-        c = ord(s[i])-ord('0') # значение от 0 до 9 – порядковый номер символа
+        c = ord(s[i])-ord('а')
         H = (H + (c*X**(M-i)) % MOD) % MOD
     return H
 
@@ -39,12 +39,13 @@ def hash(s):
 plagiat_words = 0
 wiki_contents_hash = [hash(word) for word in wiki_contents]
 doc_contents_hash = [hash(word) for word in doc_contents]
-for i in range(len(doc_contents_hash)):
-    doc_word_hash = doc_contents_hash[i]
-    for j in range(len(wiki_contents_hash)):
-        wiki_word_hash = wiki_contents_hash[j]
-        if doc_word_hash == wiki_word_hash and doc_contents[i:i+3] == wiki_contents[j:j+3]:
-            plagiat_words += 3
-            # print(doc_contents[i:i+3])
+for i in range(len(doc_contents_hash)-2):
+    doc_word_hash = doc_contents_hash[i:i+3]
+    for j in range(len(wiki_contents_hash)-2):
+        wiki_word_hash = wiki_contents_hash[j:j+3]
+        if doc_word_hash == wiki_word_hash:
+            if doc_contents[i:i+3] == wiki_contents[j:j+3]:
+                plagiat_words += 3
+                # print(doc_contents[i:i+3])
 plagiat_percentage = int(plagiat_words / len(doc_contents) * 100)
 print(f'Количество плагиата в % от общего количества слов в реферате: {plagiat_percentage}%')
