@@ -1,3 +1,4 @@
+from gui import *
 from Pizzeria import *
 from console import *
 

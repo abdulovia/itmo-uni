@@ -1,14 +1,8 @@
 from Pizzeria import *
 import asyncio
-import sqlite3, os
-from tkinter import *
+import sqlite3, os, sys
+import tkinter as tk
 from tkinter import ttk
-
-class WrongPizzaError(Exception):
-    def __init__(self, n, message="Такой пиццы нету!"):
-        self.n = n
-        self.message = message
-        super().__init__(self.message)
 
 class Console:
     user = welcome()

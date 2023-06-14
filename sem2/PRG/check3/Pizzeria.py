@@ -1,6 +1,7 @@
 import time
 from abc import ABC, abstractmethod
 import asyncio
+
 class Pizza:
     name = "pizza"
     @abstractmethod
@@ -13,40 +14,11 @@ class Pizza:
     def __add__(self, other):
         self.filling += other.filling
 
-    def wait(func):
-        def wrapper():
-            func()
-            time.sleep(2)
-        return wrapper()
-
-    @wait
     def opening():
         print("Подождите, пиццерия открывается...")
-    @wait
     def opened():
         print("Пиццерия открыта, добро пожаловать!")
-    
-    async def end(self):
-        print("Пицца нарезана и упакована")
-    
-    async def bake(self):
-        print("Пицца успешно испечена")
-        other = self.end()
-        await other
-        
-    async def star(self):
-        print("Тесто для пиццы замешено\nИнгридиенты для пиццы собраны\nПицца помещается в духовку")
-        other = self.bake()
-        await other
-        
-    async def prep(self):
-        print("Начинается процесс подготовки пиццы")
-        other = self.star()
-        await other
 
-class Circle:
-    def radius(self):
-        print(3.14*30**2)
         
 class PizzaBarbeku(Pizza):
     def __init__(self, add_fill=""):
@@ -55,9 +27,6 @@ class PizzaBarbeku(Pizza):
 
     def __repr__(self):
         return self.name
-
-class Mixin(Circle, PizzaBarbeku):
-    pass
 
 class PizzaPepperoni(Pizza):
     def __init__(self, add_fill=""):
@@ -76,9 +45,6 @@ class PizzaDaryMorya(Pizza):
     def __repr__(self):
         return self.name
 
-class Mixin1:
-    def test(self):
-        print("Mixin1")
 
 class Terminal:
     '''
