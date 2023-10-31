@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/bin/Debug/net7.0/StructDist
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/bin/Debug/net7.0/StructDist.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/bin/Debug/net7.0/StructDist.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/bin/Debug/net7.0/StructDist.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/bin/Debug/net7.0/StructDist.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/refint/StructDist.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/StructDist.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/StructDist/obj/Debug/net7.0/ref/StructDist.dll

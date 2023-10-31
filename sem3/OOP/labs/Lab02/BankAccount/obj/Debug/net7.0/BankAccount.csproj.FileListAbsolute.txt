@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/bin/Debug/net7.0/BankAccount
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/bin/Debug/net7.0/BankAccount.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/bin/Debug/net7.0/BankAccount.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/bin/Debug/net7.0/BankAccount.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/bin/Debug/net7.0/BankAccount.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/refint/BankAccount.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/BankAccount.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab02/BankAccount/obj/Debug/net7.0/ref/BankAccount.dll

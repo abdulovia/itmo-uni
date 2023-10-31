@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/bin/Debug/net7.0/Sum_Limits
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/bin/Debug/net7.0/Sum_Limits.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/bin/Debug/net7.0/Sum_Limits.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/bin/Debug/net7.0/Sum_Limits.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/bin/Debug/net7.0/Sum_Limits.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/refint/Sum_Limits.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/Sum_Limits.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab03/Sum_Limits/obj/Debug/net7.0/ref/Sum_Limits.dll

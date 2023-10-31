@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/bin/Debug/net7.0/Greetings
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/bin/Debug/net7.0/Greetings.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/bin/Debug/net7.0/Greetings.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/bin/Debug/net7.0/Greetings.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/bin/Debug/net7.0/Greetings.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/refint/Greetings.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/Greetings.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/Greetings/obj/Debug/net7.0/ref/Greetings.dll

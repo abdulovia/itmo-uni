@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/bin/Debug/net7.0/MyProgram
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/bin/Debug/net7.0/MyProgram.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/bin/Debug/net7.0/MyProgram.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/bin/Debug/net7.0/MyProgram.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/bin/Debug/net7.0/MyProgram.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/refint/MyProgram.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/MyProgram.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab01/MyProgram/obj/Debug/net7.0/ref/MyProgram.dll
