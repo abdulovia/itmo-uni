@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/bin/Debug/net7.0/KR
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/bin/Debug/net7.0/KR.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/bin/Debug/net7.0/KR.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/bin/Debug/net7.0/KR.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/bin/Debug/net7.0/KR.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/refint/KR.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/KR.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab04/KR/obj/Debug/net7.0/ref/KR.dll

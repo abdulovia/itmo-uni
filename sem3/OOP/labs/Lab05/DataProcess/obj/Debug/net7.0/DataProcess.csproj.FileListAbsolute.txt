@@ -1,0 +1,14 @@
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.AssemblyInfoInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.AssemblyInfo.cs
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.csproj.CoreCompileInputs.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/bin/Debug/net7.0/DataProcess
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/bin/Debug/net7.0/DataProcess.deps.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/bin/Debug/net7.0/DataProcess.runtimeconfig.json
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/bin/Debug/net7.0/DataProcess.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/bin/Debug/net7.0/DataProcess.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/refint/DataProcess.dll
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.pdb
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/DataProcess.genruntimeconfig.cache
+/Users/ai/Developer/itmo-uni/sem3/OOP/labs/Lab05/DataProcess/obj/Debug/net7.0/ref/DataProcess.dll
